@@ -1,12 +1,13 @@
-🌟 Poke Discord Botu 🚀
+# 🌟 Pokémon Discord Botu 🚀
 
-Merhaba Discord bağımlıları!  
-Bu bot sayesinde Discord sunucunda kendi Pokémon dünyanı yaratabilir, savaşlara katılabilir ve Pokémon’larını besleyip güçlendirebilirsin!
+Merhaba eğlence düşkünleri! 🎉  
+Bu bot sayesinde Discord sunucunda kendi Pokémon dünyanı yaratabilir, savaşlara katılabilir ve Pokémon’larını besleyip güçlendirebilirsin! 🐾  
 
 Farklı tür Pokémonlar seni bekliyor:  
 - 🐣 **Sıradan Pokémon** → Maceranın başlangıcı  
 - 🥊 **Fighter (Savaşçı)** → Güç ve saldırı odaklı  
 - 🧙 **Wizard (Büyücü)** → Strateji ve savunma ustası  
+
 
 ---
 
@@ -17,7 +18,7 @@ Farklı tür Pokémonlar seni bekliyor:
 🗑️ **Sil ve Yeniden Başla:** `/sil` ile Pokémonunu sil, Pcon harcayarak temiz bir başlangıç yap!  
 📊 **Bilgi Al:** `/inf` ile Pokémon istatistiklerini gör, stratejini belirle!  
 💰 **Pcon Durumu:** `/coin` ile kazandığın veya harcadığın Pcon’leri takip et!  
-⚔️ **Savaş:** `/attack @kullanıcı` ile diğer kullanıcılarla kıyasıya mücadele et!  
+⚔️ **Savaş:** `/attack @kullanıcı` ile diğer kullanıcılarla kıyasıya mücadele et! 
 
 ---
 
@@ -38,12 +39,15 @@ Farklı tür Pokémonlar seni bekliyor:
 **Pokémon Örneği:**  
 ![Pokémon Görseli](EKLE)
 
+**Snorlax Örneği:**  
+![Snorlax Görseli](EKLE)
+
 **Savaş Anı:**  
 ![Savaş Görseli](EKLE)
 
 ---
 
-#🌈 Ekstra Parlak Özellikler
+## 🌈 Ekstra Parlak Özellikler
 - Her Pokémon kendi istatistiklerine ve özel güçlerine sahip ⚡  
 - Savaşlar tamamen rastgele olaylarla dinamik hale geliyor 🎲
 - Her Pokémonun statları orjinal API dan geliyor! 🐣  
@@ -53,3 +57,4 @@ Farklı tür Pokémonlar seni bekliyor:
 ---
 
 “Discord sunucunda kendi Pokémon efsaneni yarat!” 🐉💫
+
