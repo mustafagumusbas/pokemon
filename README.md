@@ -36,14 +36,16 @@ Farklı tür Pokémonlar seni bekliyor:
 
 ## 📸 Ekran Görüntüleri
 
-**Pokémon Örneği:**  
-![Pokémon Görseli](EKLE)
 
-**Snorlax Örneği:**  
-![Snorlax Görseli](EKLE)
+**Bot:**  
+![Bot Görseli](screenshots/bot.png)
+
+**Pokémon Kazanma:**  
+![Pokémon Görseli](screenshots/go.png)
 
 **Savaş Anı:**  
-![Savaş Görseli](EKLE)
+![Savaş Görseli](screenshots/savaş.png)
+
 
 ---
 
