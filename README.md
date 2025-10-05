@@ -1,6 +1,6 @@
 # 🌟 Pokémon Discord Botu 🚀
 
-Selam Discor Bağımlıları!  
+Selam Discord Bağımlıları!  
 Bu bot sayesinde Discord sunucunda kendi Pokémon dünyanı yaratabilir, savaşlara katılabilir ve Pokémon’larını besleyip güçlendirebilirsin!  
 
 Farklı tür Pokémonlar seni bekliyor:  
