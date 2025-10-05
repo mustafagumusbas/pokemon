@@ -33,20 +33,18 @@ Farklı tür Pokémonlar seni bekliyor:
 > Not: Saldırılarda ve beslemede bekleme sürelerine dikkat et, stratejini buna göre kur! ⏱️
 
 ---
-
 ## 📸 Ekran Görüntüleri
 
 
 **Bot:**  
 ![Bot Görseli](screenshots/bot.png)
-
+---
 **Pokémon Kazanma:**  
 ![Pokémon Görseli](screenshots/go.png)
+---
 
 **Savaş Anı:**  
 ![Savaş Görseli](screenshots/savaş.png)
-
-
 ---
 
 ## 🌈 Ekstra Parlak Özellikler
