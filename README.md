@@ -17,6 +17,7 @@ Farklı tür Pokémonlar seni bekliyor:
 🍎 **Besle ve Güçlendir:** `/feed` ile HP artır, Pokémon’unu sağlıklı tut!  
 🗑️ **Sil ve Yeniden Başla:** `/sil` ile Pokémonunu sil, Pcon harcayarak temiz bir başlangıç yap!  
 📊 **Bilgi Al:** `/inf` ile Pokémon istatistiklerini gör, stratejini belirle!  
+📜 **Sınav:** `/quiz` ile Pokémon bilgini test et ve Pcon kazan!
 💰 **Pcon Durumu:** `/coin` ile kazandığın veya harcadığın Pcon’leri takip et!  
 ⚔️ **Savaş:** `/attack @kullanıcı` ile diğer kullanıcılarla kıyasıya mücadele et! 
 
